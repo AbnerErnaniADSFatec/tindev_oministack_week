@@ -14,5 +14,6 @@ $ yarn add cors
 ```
 ### Run this app with:
 ```
+$ npm install
 $ yarn dev
 ```
